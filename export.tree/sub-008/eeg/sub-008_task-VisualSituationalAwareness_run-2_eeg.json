@@ -1,0 +1,14 @@
+{
+  "PowerLineFrequency": 50,
+  "TaskName": "VisualSituationalAwareness",
+  "EEGChannelCount": 64,
+  "MiscChannelCount": 6,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 976,
+  "SamplingFrequency": 256,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
